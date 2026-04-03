@@ -1,7 +1,7 @@
-from cinema.cinema.bar import CinemaBar
-from cinema.cinema.hall import CinemaHall
-from cinema.people.customer import Customer
-from cinema.people.cinema_staff import Cleaner
+from app.cinema.bar import CinemaBar
+from app.cinema.hall import CinemaHall
+from app.people.customer import Customer
+from app.people.cinema_staff import Cleaner
 
 
 def cinema_visit(
